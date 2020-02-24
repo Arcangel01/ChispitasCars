@@ -1,0 +1,28 @@
+D:\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.deps.json
+D:\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.runtimeconfig.json
+D:\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.runtimeconfig.dev.json
+D:\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.dll
+D:\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.pdb
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.csprojAssemblyReference.cache
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.csproj.CoreCompileInputs.cache
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.RazorAssemblyInfo.cache
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.RazorAssemblyInfo.cs
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.AssemblyInfoInputs.cache
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.AssemblyInfo.cs
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.RazorTargetAssemblyInfo.cache
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.dll
+D:\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.pdb
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.deps.json
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.runtimeconfig.json
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.runtimeconfig.dev.json
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.dll
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\bin\Debug\netcoreapp2.1\ApiCar.pdb
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.csprojAssemblyReference.cache
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.csproj.CoreCompileInputs.cache
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.RazorAssemblyInfo.cache
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.RazorAssemblyInfo.cs
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.AssemblyInfoInputs.cache
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.AssemblyInfo.cs
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.RazorTargetAssemblyInfo.cache
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.dll
+D:\Desktop\Todo C#\Project_Cs\ApiCar\ApiCar\obj\Debug\netcoreapp2.1\ApiCar.pdb
